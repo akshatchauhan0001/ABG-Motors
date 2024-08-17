@@ -1,4 +1,3 @@
-**#Market-Entry-Analysis-Project-of-ABG-Company**
 # ABG-Motors
 ### Market Entry Analysis for ABG Motors in India
 
